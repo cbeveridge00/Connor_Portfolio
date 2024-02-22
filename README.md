@@ -6,9 +6,12 @@ Connor Beveridge's Portfolio of AI/ML Academic, Personal, and Professional Proje
 
 # Python Projects Built for Community College Courses (Solutions Included)
 
+These projects are done in python and are mostly coded from scratch, no major packages are used other than common ones like numpy
+
 | Project Link | Tools | Project Description |
-|---|---|---|
-| [Optimization algorithms - Backpack Problem](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/backpack) | Python, Optimization Algorithms | Students code the Genetic, Simulated Annealing, and Hill Climbing optimization algorithms to solve the backpack problem. Determine which items you should add to a backpack maximize the total value of the items without surpassing backpack capacity. |
+|---|---|
+| [Optimization algorithms - Backpack Problem](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/backpack) | Students code the Genetic, Simulated Annealing, and Hill Climbing optimization algorithms to solve the backpack problem. Determine which items you should add to a backpack maximize the total value of the items without surpassing backpack capacity. |
+| [Adversarial Search - Checkersbot](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/backpack](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/Checkers%20Bot) | Students code the MiniMax and Alpha-beta adversarial search algorithms to produce a checkers bot. |
 
 
 
