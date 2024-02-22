@@ -2,7 +2,7 @@
 
 Connor Beveridge's Portfolio of AI/ML Academic, Personal, and Professional Projects in Python
 
-### In This Portfolio, you will find relevant projects I have built and/or completed during my time as a student (Masters in Computer Science, Udacity Nanodegree programs), as an Instructor at Wayne Community College, and for personal interest.
+### In This Portfolio, you will find select projects I have built and/or completed during my time as a student (Masters in Computer Science, Udacity Nanodegree programs), as an Instructor at Wayne Community College, and for personal interest.
 
 # Python Projects Built for Community College Courses (Solutions Included)
 
