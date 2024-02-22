@@ -4,7 +4,7 @@ This is a project I built from scratch on local search in complex environments. 
 
 ![backpack problem](https://github.com/cbeveridge00/Connor_Portfolio/blob/main/backpack/Optimization/knapsack.png?raw=true)
 
-This includes the full solutions to the project. Full student README can be found in the project folder. 
+This includes the full solutions to the project. Full student README can be found in the project folder which includes instructions on how to run the code.
 
 ### Educational Goals
 
