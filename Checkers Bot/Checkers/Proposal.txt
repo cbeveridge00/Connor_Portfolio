@@ -1,0 +1,12 @@
+Group members:
+Shichao Wang
+
+150-400 Word Description:
+
+For my final project, I will be making a checkers app in TKinter. This app will be able to validate the moves you make and only allow you to make legal moves. It will not allow you to move pieces into already occupied squares. It will enforce the have to jump rule where you must take a jump if one is available. It will also detect conditions for double jumps and allow you to make these jumps. Finally, it will tell you when you've won or lost.
+
+The app I'll be making will also have two built in timers. When it's a particular player's turn, the timer for that player will count down automatically until he or she makes a move. The time allotted to each player will be determined through two different ways. Each player will get a base amount of time. For each move that they make, they can also receive extra time. There will be an option to just play checkers without time constraints as well.
+
+My app will also allow the players to agree to a draw. Either of the players can offer a draw, and the other player can accept this draw during the next turn. Finally, my app will allow games to be saved to disk to be continued at a later date.
+
+The three modules I plan on using are datetime for the timing functionality, JSON for saving the game to disk, and TKinter for the GUI.
