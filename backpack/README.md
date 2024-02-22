@@ -22,6 +22,6 @@ For hill climbing, students code the base algorithm in addition to code needed t
 
 In addition to coding the algorithms, students incorporate them to produce a graph that compares the performance and behavior of each one. A set random seed is used to produce certain expected results:
 
-![backpack graph](https://github.com/cbeveridge00/Connor_Portfolio/blob/main/backpack/Optimization/knapsack_graph.png?raw=true)
+![backpack graph](https://github.com/cbeveridge00/Connor_Portfolio/blob/main/backpack/Optimization/Knapsack_graph.png?raw=true)
 
 Students also produce a write-up explaining the algorithms and their results on this problem including the results of in the graph. They should understand which type of problems these algorithms are suited for and that the genetic algorithm is superior for this problem.
