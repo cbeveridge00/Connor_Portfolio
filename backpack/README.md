@@ -4,9 +4,24 @@ This is a project I built from scratch on local search in complex environments. 
 
 ![backpack problem](https://github.com/cbeveridge00/Connor_Portfolio/blob/main/backpack/Optimization/knapsack.png?raw=true)
 
-Full student README can be found in the project folder.
+This includes the full solutions to the project. Full student README can be found in the project folder. 
 
 ### Educational Goals
-This project aims to strengthen student skills in python and test implementation
 
-### Details
+This project aims to strengthen student skills in python and test algorithm understanding through implementation of the following algorithms:
+
+ - Hill Climbing
+ - Simulated Annealing
+ - Genetic Algorithm
+
+For hill climbing, students code the base algorithm in addition to code needed to get neighbors. For simulated annealing, students must utilize a decay function in addition to coding the algorithm and the successor function. For the genetic algorithm, students code all aspects needed including generating an initial population, reproduction, mutation, and "natural selection".
+
+
+### Further Details
+
+
+In addition to coding the algorithms, students incorporate them to produce a graph that compares the performance and behavior of each one. A set random seed is used to produce certain expected results:
+
+![backpack graph](https://github.com/cbeveridge00/Connor_Portfolio/blob/main/backpack/Optimization/knapsack_graph.png?raw=true)
+
+Students also produce a write-up explaining the algorithms and their results on this problem including the results of in the graph. They should understand which type of problems these algorithms are suited for and that the genetic algorithm is superior for this problem.
