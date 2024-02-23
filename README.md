@@ -12,6 +12,7 @@ These projects are done in python and are mostly coded from scratch, no major pa
 |---|---|
 | [Optimization algorithms - Backpack Problem](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/backpack) | Students code the Genetic, Simulated Annealing, and Hill Climbing optimization algorithms to solve the backpack problem. Determine which items you should add to a backpack maximize the total value of the items without surpassing backpack capacity. |
 | [Adversarial Search - Checkersbot](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/Checkers%20Bot) | Students code the MiniMax and Alpha-beta adversarial search algorithms to produce a checkers bot. |
+| [Constraint Satisfaction Search - Sudoku Solver](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/Sudoku_Solver) | Students code the Backtracking search algorithm to produce a Sudoku Solver. |
 
 
 
