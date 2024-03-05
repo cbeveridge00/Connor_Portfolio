@@ -1,4 +1,4 @@
-# Connor Beveridge's Python/AI/ML Portfolio
+# Connor's Python/AI/ML Portfolio
 
 Connor Beveridge's Portfolio of AI/ML Academic, Personal, and Professional Projects in Python
 
