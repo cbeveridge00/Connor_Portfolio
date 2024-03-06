@@ -6,5 +6,7 @@ This project was built on top of a suduko puzzle app. The code was extended to a
 <img src="https://github.com/cbeveridge00/Connor_Portfolio/blob/main/Sudoku_Solver/Sudoku/puzzle.gif" />
 </div>
 
-This includes the full solutions to the project. Full student README can be found in the project folder which includes instructions on how to run the code.
+This includes the full solutions to the project. Full student README can be found in the project folder which includes instructions on how to run the code and info on individual files.
+
+
 
