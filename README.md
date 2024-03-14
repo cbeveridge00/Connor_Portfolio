@@ -27,6 +27,15 @@ These projects are done in python and are mostly coded from scratch, no major pa
 | [Bayes Net Modeling and Inference](https://github.com/cbeveridge00/Connor_Portfolio/blob/main/Notebooks/Bayesian_Network.ipynb) | Built as an example of Bayes Net construction and inference for reference |
 | [CNN model Improvement](https://github.com/cbeveridge00/Connor_Portfolio/blob/main/Notebooks/CNN_extended.ipynb) | A basic CNN model is compared to one that is significantly strengthed with batch normalization, dropout, and more. |
 
+## Projects completed as Master's student at Georgia Tech
+
+| Project Link | Project Description |
+|---|---|
+
+## Projects completed as Nanodegree student at Georgia Tech
+
+| Project Link | Project Description |
+|---|---|
 
 
 
