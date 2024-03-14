@@ -15,6 +15,12 @@ These projects are done in python and are mostly coded from scratch, no major pa
 | [Constraint Satisfaction Search - Sudoku Solver](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/Sudoku_Solver) | Students code the Backtracking search algorithm to produce a Sudoku Solver. |
 | [Deep Learning Utilization - Waitroom Person Tracker App](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/Person%20Tracker) | Students utilize pre-trained models in an app for person tracking for waitroom monitoring. |
 
+## Personal Interest Projects
+
+| Project Link | Project Description |
+|---|---|
+| [Bayes Net Modeling and Inference](https://github.com/cbeveridge00/Connor_Portfolio/blob/main/Notebooks/Bayesian_Network.ipynb) | Built as an example of Bayes Net construction and inference for reference |
+
 
 
 
