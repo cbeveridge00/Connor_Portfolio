@@ -1,7 +1,5 @@
 
-The code and datasets can be found at the following github link.
-
-https://github.gatech.edu/cbeveridge3/Supervised
+## Supervised learning Project
 
 The code for each algorithm is contained within its own file. An extra python file (curve.py) holds a fuction for plotting learning curves. All results for each algorithm can be 
 reproduced with its corresponding python file. Running each file will produce figures identical to the ones in the analysis report for that algorithm. These figures are named after 
