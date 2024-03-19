@@ -31,6 +31,7 @@ These projects are done in python and are mostly coded from scratch, no major pa
 
 | Project Link | Project Description |
 |---|---|
+| [Supervised Learning](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/Supervised) | Supervised |
 
 ## Projects completed as Nanodegree student at Georgia Tech
 
