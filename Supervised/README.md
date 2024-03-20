@@ -8,11 +8,11 @@ reproduced with its corresponding python file. Running each file will produce fi
 their name in the alaysis with 'a' indicating the first graph of the figure. For instance, figure 1 is 'fig1a.png' and 'fig1b.png'. Figure 2 is 'fig2a.png' and so on. Numeric results
 and times from these anlysis are printed as output.  
 
--dt.py - Decision Tree Code
--ANN.py - Neural Network Code
--boost.py - Boosting code
--svm.py - Support Vector Machine Code
--knn.py - K-NN code
+- dt.py - Decision Tree Code
+- ANN.py - Neural Network Code
+- boost.py - Boosting code
+- svm.py - Support Vector Machine Code
+- knn.py - K-NN code
 
 -curve.py - support for creating learning curves
 
