@@ -14,7 +14,7 @@ and times from these anlysis are printed as output.
 - svm.py - Support Vector Machine Code
 - knn.py - K-NN code
 
--curve.py - support for creating learning curves
+- curve.py - support for creating learning curves
 
 
 In the input folder are the datasets, the features are obvious in Tic-tac-toe, but explanations for heart-disease features are given in the folder:
