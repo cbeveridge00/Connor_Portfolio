@@ -33,10 +33,11 @@ These projects are done in python and are mostly coded from scratch, no major pa
 |---|---|
 | [Supervised Learning](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/Supervised) | An analysis and comparison of different supervised learning techniques on different datasets |
 
-## Projects completed as Nanodegree student at Georgia Tech
+## Projects completed as Nanodegree student with Udacity
 
 | Project Link | Project Description |
 |---|---|
+| [ML Model Scoring and Monitoring]() | A dynamic risk assessment system in which I built a and monitored an ML model to predict attrition risk |
 
 
 
