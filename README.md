@@ -32,6 +32,8 @@ These projects are done in python and are mostly coded from scratch, no major pa
 | Project Link | Project Description |
 |---|---|
 | [Supervised Learning](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/Supervised) | An analysis and comparison of different supervised learning techniques on different datasets |
+| [Unsupervised Learning](https://github.com/cbeveridge00/Connor_Portfolio/tree/main/Unsupervised) | An analysis and comparison of clustering and dimensionality reduction techniques |
+| [Optimization]() | An analysis and comparison of different optimization techniques |
 
 ## Projects completed as Nanodegree student with Udacity
 
