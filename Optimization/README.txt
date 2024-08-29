@@ -1,7 +1,3 @@
-The code and datasets can be found at the following google drive shared link
-
-https://drive.google.com/drive/folders/1LSyaqoN08a0evwXj0_kvCly8TVKDW1kj?usp=sharing
-
 The code for each optimization problem and for neural networks is contained within its own file. All results for each problem can be 
 reproduced with its corresponding python file. Running each file will produce figures identical to the ones in the analysis report for that algorithm, except for figure 4b which is
 a combination of 2 figures. The grid search code is commented out in all files.
