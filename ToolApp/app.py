@@ -224,7 +224,7 @@ class PhotoApp:
         """
         Toggles the socket detection checkbox
         """
-        #JACKIE: This method will be bound to the socket button
+        # This method will be bound to the socket button
         self.isSocket = self.socketCheckVar.get()
 
     def batchStart(self):
